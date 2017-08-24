@@ -3,15 +3,16 @@
 ###### Student Details:
 
 Shriyansh Yadav
-(scyadav)
+(scyadav)  
 HW0 Software Engineering
 
-**The tasks included are:** 
-* Screenshot of updated profile Slack and Moodle  
-* Learning Git Screenshot  
-(1) The screenshot of the completed git exercise is:  
+**The tasks completed for homework are:** 
+* Updated Slack and Moodle profile  
 
-* Hook's Screencast video  
-(1) The link to the screencast video is:  
+* Learning Git Screenshot  
+**(1) The screenshot of the completed git exercise is:  
 
-(2) The screenshot of the hook is:  
+* Post-commit Hook's Screencast video  
+**(1) The link to the screencast video is:  
+
+**(2) The screenshot of the hook is:  
