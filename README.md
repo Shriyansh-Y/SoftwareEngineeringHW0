@@ -14,5 +14,5 @@ HW0 Software Engineering
 
 * Post-commit Hook's Screencast video  
 **(1) The link to the screencast video is:  
-
-**(2) The screenshot of the hook is:  
+  
+  **(2) The screenshot of the hook is:  
