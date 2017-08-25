@@ -11,6 +11,7 @@ HW0 Software Engineering
 ##### Slack + Moodle + Private Repo  
 
 * Updated Slack and Moodle profile  
+* Created Private repo HW0 and added Professor and TAs as collaborators
 
 ##### Learning Git  
 
