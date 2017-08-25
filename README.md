@@ -10,7 +10,12 @@ HW0 Software Engineering
 * Updated Slack and Moodle profile  
 
 * Learning Git Screenshot  
-(1) The screenshot of the completed git exercise is:   
+The screenshot of the completed git exercise is:   
+
+
+![Screenshot](https://github.ncsu.edu/scyadav/HW0/blob/master/GitBranchHW0.png)
+
+
 
 * Post-commit Hook's Screencast video  
 The link to the screencast video is:  
