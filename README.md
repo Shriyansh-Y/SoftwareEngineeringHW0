@@ -22,6 +22,13 @@ The screenshot of the completed git exercise is:
 
 
 ##### Hooks + Screencast 
+* Hook Script  
+
+```
+#!/bin/bash
+start https://www.stackoverflow.com
+
+```  
 
 
 * Post-commit Hook's Screencast video  
